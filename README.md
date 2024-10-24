@@ -20,7 +20,7 @@
 1. 下载代码
 
     ```
-    $ git clone https://github.com/dyh/unbox_yolov5_deepsort_counting.git
+    $ git clone https://github.com/superAmazingY/yolov5_deepsort.git
     ```
    
    
@@ -64,7 +64,6 @@
 
 8. 在 main.py 文件中第66行，设置要检测的视频文件路径，默认为 './video/test.mp4'
 
-    > 140MB的测试视频可以在这里下载：https://pan.baidu.com/s/1qHNGGpX1QD6zHyNTqWvg1w 提取码: 8ufq 
  
     ```
     capture = cv2.VideoCapture('./video/test.mp4')
