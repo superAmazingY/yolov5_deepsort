@@ -7,12 +7,6 @@
 - 检测类别可在 detector.py 文件第60行修改。
 
 
-### 视频
-
-bilibili
-
-[![bilibili](https://github.com/dyh/unbox_yolov5_deepsort_counting/blob/main/cover.jpg?raw=true)](https://www.bilibili.com/video/BV14z4y127XX/ "bilibili")
-
 
 ## 运行环境
 
@@ -29,7 +23,6 @@ bilibili
     $ git clone https://github.com/dyh/unbox_yolov5_deepsort_counting.git
     ```
    
-   > 因此repo包含weights及mp4等文件，若 git clone 速度慢，可直接下载zip文件：https://github.com/dyh/unbox_yolov5_deepsort_counting/archive/main.zip
    
 2. 进入目录
 
